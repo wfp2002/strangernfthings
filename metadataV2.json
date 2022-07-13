@@ -2,7 +2,7 @@
   "name": "Stranger NFThings Stamina Token",
   "symbol": "STT-ST-1",
   "description": "Stranger NFThings stamina available after Level 4",
-  "image": "https://raw.githubusercontent.com/wfp2002/strangernfthings/main/stamina.jpg2",
+  "image": "https://raw.githubusercontent.com/wfp2002/strangernfthings/main/stamina.jpg",
   "animation_url": "https://raw.githubusercontent.com/wfp2002/strangernfthings/main/stamina.jpg",
   "external_url": "https://strangernfthings.vercel.app",
   "attributes": [

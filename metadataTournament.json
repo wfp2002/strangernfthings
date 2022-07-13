@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Tournament Pass",
-      "value": true
+      "value": "True"
     },
     {
       "trait_type": "Season",
-      "value": 1
+      "value": "1"
     }
   ]
 }
